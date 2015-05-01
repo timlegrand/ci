@@ -1,3 +1,5 @@
+![Travis build](https://travis-ci.org/timlegrand/ci.svg)
+
 # Cloudinuous Integration
 
 This is a minimalistic, sample repository to test Travis' Continuous Integration and study link and integration between Travis and GitHub.
